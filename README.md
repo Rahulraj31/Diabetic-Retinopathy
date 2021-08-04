@@ -18,3 +18,11 @@ All of the images are already saved into their respective folders according to t
 - 2 - Moderate
 - 3 - Severe
 - 4 - Proliferate_DR
+
+# Acknowledgements
+This competition is sponsored by the California Healthcare Foundation.
+
+
+
+Retinal images were provided by EyePACS, a free platform for retinopathy screening.
+
